@@ -1,10 +1,6 @@
 # regatta-scheduling
 
-testing the commit system (making a change to master)
+This is Readme is mainly to test GitHub Workflows. Please Ignore.
 
-adding a feature here
-
-another one f2
-
-f3
-adding a new feature
+Changes:
+01 - on pr_feature branch

@@ -1,3 +1,3 @@
-new file in master
+This test file has a similar role to the readme. Just testing github flows.
 
-master 3 change
+Created on the pr_feature branch.
